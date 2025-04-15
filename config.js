@@ -25,7 +25,8 @@ for (let i = 0; i < ownerlist.length; i += 2) {
 
 //----------------------------------------------------------------------------
 
-global.mods = ['24105114159'] 
+global.mods = ['2349037546246
+               '] 
 global.prems = ['24105114159']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
